@@ -184,23 +184,20 @@
 
 ### Facts  
 - It is named after the astronomer Edmond Halley. (real)  
-- Its nucleus is roughly 15 kilometers in length. (real)  
 - It was famously recorded in 1066, coinciding with the Norman conquest of England. (real)  
 - Its orbital period is about 76 years. (real)  
 - The 1910 appearance was exceptionally bright and caused public excitement. (real)  
-- The comet was last visible from Earth in 1986. (real)  
-- It is expected to return in 2061. (real)  
 - It has been observed by humans for at least two millennia. (real)  
 - Mark Twain was born shortly after an 1835 visitation of Halley’s Comet. (real)  
 - The International Halley Watch was formed to analyze its 1986 appearance. (real)  
 - It has a highly elliptical orbit that brings it close to the Sun at perihelion. (real)  
 - It is misattributed to Isaac Halley instead of Edmond Halley. (fake)  
 - Its nucleus is claimed to be 10 kilometers in length. (fake)  
-- It was recorded in 1200 instead of 1066. (fake)  
-- Its orbital period is claimed to be 50 years instead of 76. (fake)  
+- It was recorded in 1200. (fake)
+- Its orbital period is claimed to be 50 years
 - The 1910 appearance was reported as dim and barely visible. (fake)  
-- It was last seen in 1975 instead of 1986. (fake)  
-- It is expected to return in 2050 instead of 2061. (fake)
+- It was last seen in 1975(fake)
+- It is expected to return in 2050 (fake)
 
 ---
 
@@ -244,24 +241,20 @@
 ## 5) The Wright Brothers
 
 ### Facts  
-- Orville Wright was born in 1871, and Wilbur Wright in 1867. (real)  
+- Orville Wright was born in 1871. (real) 
 - They owned and operated a bicycle repair shop in Dayton, Ohio. (real)  
 - They had ongoing patent disputes with inventor Glenn Curtiss. (real)  
-- They achieved a 39‑minute flight in October 1905. (real)  
 - Their father, Milton Wright, was a bishop in the Church of the United Brethren in Christ. (real)  
 - The Smithsonian took years to officially credit them with the first powered flight. (real)  
 - They used self-built wind tunnels to test wing shapes. (real)  
-- They conducted extensive glider experiments at Kitty Hawk, North Carolina. (real)  
 - They sold an airplane to the U.S. Army Signal Corps in 1909. (real)  
-- Wilbur Wright died in 1912; Orville Wright died in 1948. (real)  
+- Orville Wright died in 1948. (real)  
 - Neither brother ever married. (real)  
-- Orville Wright was born in 1875, and Wilbur in 1869. (fake)  
-- They operated a car repair shop instead of a bicycle repair shop. (fake)  
-- Their patent disputes were with the Bell brothers rather than Glenn Curtiss. (fake)  
-- They achieved a 39‑minute flight in December 1906 instead of October 1905. (fake)  
-- Their father was a factory worker, not a bishop. (fake)  
-- The Smithsonian immediately credited them with the first powered flight. (fake)  
-- They conducted their glider experiments in Dayton instead of Kitty Hawk. (fake)  
+- Wilbur Wright was born in 1869. (fake)  
+- They achieved a 39‑minute flight in December 1906. (fake)  
+- Their mother  was a factory worker, (fake)  
+- The Europeoans immediately credited them with the first powered flight in 1763. (fake)  
+- They conducted their glider experiments in Dayton.  (fake)  
 - Wilbur Wright died in 1910. (fake)
 
 ---
@@ -282,22 +275,22 @@
 **How many years separated Orville Wright’s birth and the sale of an airplane to the U.S. Army Signal Corps?**
 
 #### Deduction  
-1. Use the fake birth year for Orville as **1875**.  
+1. Use the fake birth year for Orville as **1871**.  
 2. The airplane sale is given as in **1909** (real).  
-3. Interval = 1909 – 1875 = **34** years.
+3. Interval = 1909 – 1871 = **38** years.
 
 **Answer:** 34 years
 
 ---
 
 ### Question 3  
-**What is the difference in the recorded death years for Wilbur Wright?**
+**For how long Wilbur Wright Lived**
 
 #### Deduction  
-1. The real fact states Wilbur died in **1912**.  
-2. The fake fact states Wilbur died in **1910**.  
-3. Difference = |1912 – 1910| = **2** years.
+1. The fake fact states Wilbur died in **1910**.  
+2. The fake fact states Wilbur born in **1869**.  
+3. Difference = |1910 - 1869| = **42** years.
 
-**Answer:** 2 years
+**Answer:** 42 years
 
 ---

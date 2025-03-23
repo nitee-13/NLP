@@ -101,12 +101,9 @@
 
 ### Facts
 - It is named after the astronomer Edmond Halley.
-- Its nucleus is roughly 15 kilometers in length.
 - It was famously recorded in 1066, coinciding with the Norman conquest of England.
 - Its orbital period is about 76 years.
 - The 1910 appearance was exceptionally bright and caused public excitement.
-- The comet was last visible from Earth in 1986.
-- It is expected to return in 2061.
 - It has been observed by humans for at least two millennia.
 - Mark Twain was born shortly after an 1835 visitation of Halley’s Comet.
 - The International Halley Watch was formed to analyze its 1986 appearance.
@@ -114,10 +111,10 @@
 - It is misattributed to Isaac Halley instead of Edmond Halley.
 - Its nucleus is claimed to be 10 kilometers in length.
 - It was recorded in 1200 instead of 1066.
-- Its orbital period is claimed to be 50 years instead of 76.
+- Its orbital period is claimed to be 50 years.
 - The 1910 appearance was reported as dim and barely visible.
-- It was last seen in 1975 instead of 1986.
-- It is expected to return in 2050 instead of 2061.
+- It was last seen in 1975.
+- It is expected to return in 2050.
 
 ### Question 1
 **How many times did Halley’s Comet appear in the 20th century?**
@@ -133,24 +130,21 @@
 ## 5) The Wright Brothers
 
 ### Facts
-- Orville Wright was born in 1871, and Wilbur Wright in 1867.
+- Orville Wright was born in 1871.
 - They owned and operated a bicycle repair shop in Dayton, Ohio.
 - They had ongoing patent disputes with inventor Glenn Curtiss.
-- They achieved a 39‑minute flight in October 1905.
 - Their father, Milton Wright, was a bishop in the Church of the United Brethren in Christ.
 - The Smithsonian took years to officially credit them with the first powered flight.
 - They used self-built wind tunnels to test wing shapes.
-- They conducted extensive glider experiments at Kitty Hawk, North Carolina.
 - They sold an airplane to the U.S. Army Signal Corps in 1909.
-- Wilbur Wright died in 1912; Orville Wright died in 1948.
+- Orville Wright died in 1948.
 - Neither brother ever married.
-- Orville Wright was born in 1875, and Wilbur in 1869.
-- They operated a car repair shop instead of a bicycle repair shop.
-- Their patent disputes were with the Bell brothers rather than Glenn Curtiss.
-- They achieved a 39‑minute flight in December 1906 instead of October 1905.
-- Their father was a factory worker, not a bishop.
-- The Smithsonian immediately credited them with the first powered flight.
-- They conducted their glider experiments in Dayton instead of Kitty Hawk.
+- Wilbur Wright was born in 1869.
+
+- They achieved a 39‑minute flight in December 1906.
+- Their mother was a factory worker.
+- The Europeans immediately credited them with the first powered flight in 1907.
+- They conducted their glider experiments in Dayton
 - Wilbur Wright died in 1910.
 
 ### Question 1
